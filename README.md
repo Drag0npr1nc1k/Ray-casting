@@ -8,9 +8,10 @@ To run the engine you will need the numpy and pygame libraries
 ```bash
 pip install pygame numpy
 ```
-After that you can make engine settings. In the `settings.py` file you can find the engine settings, in the future I want to make it possible to customize every little thing
-
 To start the engine you need to run the `run.py` file
 
-If you want to experiment, you can create your own map by opening the `map.py` file and changing the worldMap array 1 is the wall, and 0 is the empty space that the player can walk on.
+After that you can make engine settings. In the `settings.py` file you can find the engine settings, in the future I want to make it possible to customize every little thing
+![settings](https://github.com/Drag0npr1nc1k/Ray-casting/assets/130561717/3babe72b-05de-4928-9692-5873f3721762)
 
+If you want to experiment, you can create your own map by opening the `map.py` file and changing the worldMap array 1 is the wall, and 0 is the empty space that the player can walk on.
+![map](https://github.com/Drag0npr1nc1k/Ray-casting/assets/130561717/654bf766-9420-4f27-a479-95b47b2baea3)
