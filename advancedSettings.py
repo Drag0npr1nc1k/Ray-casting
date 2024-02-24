@@ -1,0 +1,5 @@
+#════════════colors════════════#       (R G B)
+skyColor = (24, 127, 181) # default: (36, 133, 181)
+wallColor = (255, 255, 255)# default: (255, 255, 255)
+groundColor = (50, 50, 50)# default: (50, 50, 50)
+borderMiniMapColor = (128, 128, 128) # default: (128, 128, 128)
